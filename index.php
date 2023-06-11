@@ -8,11 +8,11 @@
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
-            background-image: #101820;
+            background-image: linear-gradient(45deg, rgba(16,24,32,255), rgba(16,24,32,255));
             
         }
         div {
-            background-color: rgba(256, 256, 256, 0.9);
+            background-color: rgba(255, 255, 255, 0.9);
             position: absolute;
             top: 50%;
             left: 25%;
