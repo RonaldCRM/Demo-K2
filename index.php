@@ -9,7 +9,6 @@
         body {
             font-family: Arial, Helvetica, sans-serif;
             background-image: linear-gradient(45deg, rgba(16,24,32,255), rgba(16,24,32,255));
-            
         }
         div {
             background-color: rgba(255, 255, 255, 0.9);
@@ -21,19 +20,28 @@
             border-radius: 15px;
             color: black;
         }
-        img {
+        .logo-img {
             position: fixed;
             top: 0px;
             left: 0px;
             width: 50%;
             height: auto;
         }
+        .s3 {
+            position: absolute;
+            top: 50%;
+            left: 75%;
+            transform: translate(-50%, -50%);
+            width: 50%;
+            height: auto;
+        }        
     </style>
 </head>
 <body>
-    <img src="Logo.png" alt="Logo K2">
+    <img src="Logo.png" alt="Logo K2" class="logo-img">
     <div>
         <h1>Faça Parte dessa Equipe Campeã !!!</h1>
     </div>
+    <img src="https://s3.amazonaws.com/app.everestdigital.link/evento.jpg" alt="Descrição da Segunda Imagem" class="s3">
 </body>
 </html>
