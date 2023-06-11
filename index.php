@@ -9,7 +9,7 @@
         body {
             font-family: Arial, Helvetica, sans-serif;
             background-image: linear-gradient(45deg, black, black);
-            margin: 0;
+            
         }
         div {
             background-color: rgba(256, 256, 256, 0.9);
@@ -25,7 +25,7 @@
             position: fixed;
             top: 20px;
             left: 20px;
-            width: 100px;
+            width: 100%;
             height: auto;
         }
     </style>
