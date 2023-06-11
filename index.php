@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
-            background-image: linear-gradient(45deg, black, black);
+            background-image: #101820;
             
         }
         div {
