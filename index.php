@@ -9,6 +9,7 @@
         body{
             font-family: Arial, Helvetica, sans-serif;
             background-image: linear-gradient(45deg, black, black);
+            margin:0;
         }
         div{
             background-color: rgba(256, 256, 256, 0.9);
@@ -23,9 +24,9 @@
         img {
             display: block;
             margin-top: 20px;
-            
+            position: fixed;
             top: 0%;
-            left: 25%;            
+            left: o%;            
             width: 100%;
             height: auto;
         }
