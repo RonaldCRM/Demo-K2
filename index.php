@@ -40,8 +40,11 @@
 <body>
     <img src="Logo.png" alt="Logo K2" class="logo-img">
     <div>
-        <h1>Faça Parte dessa Equipe Campeã !!!</h1>
+        <h1>Faça parte dessa equipe Campeã !!!</h1>
     </div>
-    <img src="https://s3.amazonaws.com/app.everestdigital.link/evento.jpg" alt="foto evento " class="s3">
+    <?php
+            $s3ImageUrl = getenv('S3_IMAGE_URL');
+            echo '<img src="' . $s3ImageUrl . '" alt="foto evento" class="s3">';
+        ?>
 </body>
 </html>
