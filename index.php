@@ -16,16 +16,17 @@
             top: 50%;
             left: 25%;
             transform: translate(-50%,-50%);
-            padding: 80px;
-            border-radius: 10px;
+            padding: 60px;
+            border-radius: 15px;
             color: black;
         }
         img {           
             position: absolute;
-            top: 10%;
-            left: 10%;            
-            width: 100%;
-            height: 100%;
+            top: 90%;
+            left: 90%;
+            transform: translate(-50%,-50%);          
+            width: auto;
+            height: auto;
         }
     </style>
 </head>
