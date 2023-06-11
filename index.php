@@ -17,16 +17,15 @@
             left: 25%;
             transform: translate(-50%,-50%);
             padding: 80px;
-            border-radius: 10px;
+            border-radius: 5px;
             color: black;
         }
         img {
             display: block;
             margin-top: 20px;
             position: absolute;
-            top: 75%;
-            left: 25%;
-            transform: translate(-50%,-50%);
+            top: 0%;
+            left: 25%;            
             width: 100%;
             height: auto;
         }
