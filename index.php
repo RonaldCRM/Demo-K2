@@ -8,7 +8,7 @@
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
-            background-image: linear-gradient(45deg, black, yellow);
+            background-image: linear-gradient(65deg, black, yellow);
         }
         div{
             background-color: rgba(256, 256, 256, 0.9);
