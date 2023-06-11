@@ -8,7 +8,7 @@
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
-            background-image: linear-gradient(65deg, black, yellow);
+            background-image: linear-gradient(45deg, black, black);
         }
         div{
             background-color: rgba(256, 256, 256, 0.9);
@@ -18,7 +18,7 @@
             transform: translate(-50%,-50%);
             padding: 80px;
             border-radius: 15px;
-            color: black;
+            color: orange;
         }      
     </style>
 </head>
