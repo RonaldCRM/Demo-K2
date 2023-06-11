@@ -25,7 +25,7 @@
             top: 10%;
             left: 10%;            
             width: 100%;
-            height: auto;
+            height: 100%;
         }
     </style>
 </head>
