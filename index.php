@@ -23,6 +23,9 @@
         img {
             display: block;
             margin-top: 20px;
+            position: absolute;
+            top: 50%;
+            left: 25%;
             width: 100%;
             height: auto;
         }
