@@ -24,7 +24,7 @@
         img {
             display: block;
             margin-top: 20px;
-            position: fixed;
+            position: absolute;
             top: 0%;
             left: o%;            
             width: 100%;
