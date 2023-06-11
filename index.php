@@ -24,8 +24,9 @@
             display: block;
             margin-top: 20px;
             position: absolute;
-            top: 50%;
+            top: 75%;
             left: 25%;
+            transform: translate(-50%,-50%);
             width: 100%;
             height: auto;
         }
