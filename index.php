@@ -23,7 +23,7 @@
         img {
             display: block;
             margin-top: 20px;
-            position: absolute;
+            
             top: 0%;
             left: 25%;            
             width: 100%;
