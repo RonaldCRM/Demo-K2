@@ -42,9 +42,6 @@
     <div>
         <h1>Faça parte dessa equipe Campeã !!!</h1>
     </div>
-    <?php
-            $s3ImageUrl = getenv('S3_IMAGE_URL');
-            echo '<img src="' . $s3ImageUrl . '" alt="foto evento" class="s3">';
-        ?>
+    <img src="" alt="foto evento " class="s3">
 </body>
 </html>
