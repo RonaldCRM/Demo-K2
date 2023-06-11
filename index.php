@@ -17,14 +17,21 @@
             left: 25%;
             transform: translate(-50%,-50%);
             padding: 80px;
-            border-radius: 15px;
-            color: orange;
-        }      
+            border-radius: 10px;
+            color: black;
+        }
+        img {
+            display: block;
+            margin-top: 20px;
+            width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
     <div>
-        <h1>Faça Parte dessa Equipe Campeã !!!</h1>        
+        <h1>Faça Parte dessa Equipe Campeã !!!</h1>
+        <img src=Logo.png alt="Logo K2">
     </div>
 </body>
 </html>
