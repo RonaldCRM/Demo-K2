@@ -26,7 +26,7 @@
             margin-top: 20px;
             position: absolute;
             top: 0%;
-            left: o%;            
+            left: 0%;            
             width: 100%;
             height: auto;
         }
