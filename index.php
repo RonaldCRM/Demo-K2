@@ -9,7 +9,6 @@
         body{
             font-family: Arial, Helvetica, sans-serif;
             background-image: linear-gradient(45deg, black, black);
-            margin:0;
         }
         div{
             background-color: rgba(256, 256, 256, 0.9);
@@ -18,15 +17,13 @@
             left: 25%;
             transform: translate(-50%,-50%);
             padding: 80px;
-            border-radius: 5px;
+            border-radius: 10px;
             color: black;
         }
-        img {
-            display: block;
-            margin-top: 20px;
+        img {           
             position: absolute;
-            top: 100%;
-            left: 100%;            
+            top: 10%;
+            left: 10%;            
             width: 100%;
             height: auto;
         }
