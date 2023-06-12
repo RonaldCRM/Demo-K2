@@ -42,6 +42,6 @@
     <div>
         <h1>Faça parte dessa equipe Campeã !!!</h1>
     </div>
-    <img src="s3://app.everestdigital.link/evento.jpg" alt="foto evento " class="s3">
+    <img src="https://s3.amazonaws.com/app.everestdigital.link/evento.jpg" alt="foto evento " class="s3">
 </body>
 </html>
