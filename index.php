@@ -42,6 +42,6 @@
     <div>
         <h1>Eu faço parte dessa escalada digital!!!</h1>
     </div>
-    <img src="" alt="foto evento " class="evento">
+    <img src="evento.jpg" alt="foto evento " class="evento">
 </body>
 </html>
