@@ -42,6 +42,6 @@
     <div>
         <h1>Faça parte dessa equipe Campeã !!!</h1>
     </div>
-    <img src="evento.jpg" alt="foto evento " class="evento">
+    <img src="" alt="foto evento " class="evento">
 </body>
 </html>
