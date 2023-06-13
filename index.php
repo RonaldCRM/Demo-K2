@@ -27,7 +27,7 @@
             width: 50%;
             height: auto;
         }
-        .s3 {
+        .evento {
             position: absolute;
             top: 50%;
             left: 75%;
@@ -42,6 +42,6 @@
     <div>
         <h1>Faça parte dessa equipe Campeã !!!</h1>
     </div>
-    <img src="  " alt="foto evento " class="s3">
+    <img src="evento.jpg" alt="foto evento " class="evento">
 </body>
 </html>
